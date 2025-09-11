@@ -34,7 +34,7 @@ Sigue las siguientes instrucciones:
 ![image-devcontainer](https://github.com/4GeeksAcademy/probability-exercises-project-in-python/blob/main/assets/devcontainer-image.png?raw=true)
 
 
-> Nota: También incorporamos muestras de solución en `./notebook/solutions.ipynb` que te sugerimos que solo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
+> Nota: También incorporamos muestras de solución en `./notebook/solutions.ipynb` que te sugerimos que sólo uses si estás atascado por más de 30 minutos o si ya has terminado y quieres compararlo con tu enfoque.
 
 ## 🚛 Cómo entregar este proyecto
 
